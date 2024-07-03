@@ -3,18 +3,43 @@
   "displayName": "Mojito Pro",
   "description": "Beautiful green theme for comfortable work",
   "version": "1.0.0",
+  "publisher": "mishatoshi",
+  "license": "MIT",
+  "icon": "mojito-pro-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mishatoshi/mojito-pro-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/mishatoshi/mojito-pro-vscode-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#002E1F",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "color-theme",
+    "editor-theme",
+    "dark-theme",
+    "green-theme",
+    "green",
+    "vscode",
+    "vscode-theme",
+    "vscode-extension",
+    "mojito-pro"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "Mojito Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mojito Pro-color-theme.json"
+        "path": "./themes/mojito-pro-color-theme.json"
       }
     ]
   }
