@@ -1,0 +1,21 @@
+{
+  "name": "mojito-pro-vscode-theme",
+  "displayName": "Mojito Pro",
+  "description": "Beautiful green theme for comfortable work",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mojito Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mojito Pro-color-theme.json"
+      }
+    ]
+  }
+}
