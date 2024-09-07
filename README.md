@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./mojito-pro-logo.png" width="100px" height="100px">
+  <img src="./mojito-pro.png" width="100px" height="100px">
   <h1>Mojito Pro for Visual Studio Code</h1>
   <h3>Beautiful green theme for comfortable work</h3>
 </div>
 
 <div align="center">
-  <img src="https://github.com/mishatoshi/mojito-vscode-theme/assets/110047849/fbe65fd8-8ef6-43cf-b5d5-f4dd331c03ed">
+  <img src="https://github.com/user-attachments/assets/989477f3-4512-4e68-874b-be3612d75891">
 </div>
 
 ## Getting started
