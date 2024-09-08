@@ -367,35 +367,35 @@
     "scrollbarSlider.hoverBackground": "#1D7C3B50",
     "scrollbarSlider.activeBackground": "#B4C41C80",
     "progressBar.background": "#FFBF00",
+    "symbolIcon.keywordForeground": "#57DB5D",
+    "symbolIcon.unitForeground": "#57DB5D",
+    "symbolIcon.variableForeground": "#D5F6E1",
+    "symbolIcon.constantForeground": "#3DA2F5",
+    "symbolIcon.fieldForeground": "#57DB5D",
+    "symbolIcon.booleanForeground": "#ED457D",
+    "symbolIcon.numberForeground": "#ED457D",
+    "symbolIcon.stringForeground": "#FFEB33",
+    "symbolIcon.nullForeground": "#3DA2F5",
     "symbolIcon.arrayForeground": "#3DA2F5",
-    "symbolIcon.booleanForeground": "#F5493D",
+    "symbolIcon.objectForeground": "#3DA2F5",
+    "symbolIcon.keyForeground": "#33E7FF",
+    "symbolIcon.propertyForeground": "#3DA2F5",
+    "symbolIcon.functionForeground": "#FFAD33",
+    "symbolIcon.methodForeground": "#FFAD33",
+    "symbolIcon.operatorForeground": "#D6E64C",
     "symbolIcon.classForeground": "#FF6333",
     "symbolIcon.interfaceForeground": "#FF6333",
     "symbolIcon.constructorForeground": "#FF6333",
     "symbolIcon.structForeground": "#FF6333",
-    "symbolIcon.typeParameterForeground": "#FF6333",
     "symbolIcon.enumeratorForeground": "#FF6333",
     "symbolIcon.namespaceForeground": "#FF6333",
     "symbolIcon.moduleForeground": "#FF6333",
     "symbolIcon.packageForeground": "#FF6333",
+    "symbolIcon.typeParameterForeground": "#57DB5D",
+    "symbolIcon.textForeground": "#D5F6E1",
     "symbolIcon.colorForeground": "#D5F6E1",
     "symbolIcon.fileForeground": "#D5F6E1",
     "symbolIcon.folderForeground": "#D5F6E1",
-    "symbolIcon.functionForeground": "#FFAD33",
-    "symbolIcon.keyForeground": "#33E7FF",
-    "symbolIcon.keywordForeground": "#57DB5D",
-    "symbolIcon.methodForeground": "#FFAD33",
-    "symbolIcon.nullForeground": "#3DA2F5",
-    "symbolIcon.objectForeground": "#3DA2F5",
-    "symbolIcon.numberForeground": "#F5493D",
-    "symbolIcon.fieldForeground": "#57DB5D",
-    "symbolIcon.operatorForeground": "#D6E64C",
-    "symbolIcon.propertyForeground": "#3DA2F5",
-    "symbolIcon.stringForeground": "#FFEB33",
-    "symbolIcon.textForeground": "#D5F6E1",
-    "symbolIcon.unitForeground": "#57DB5D",
-    "symbolIcon.variableForeground": "#D5F6E1",
-    "symbolIcon.constantForeground": "#3DA2F5",
     "editor.stackFrameHighlightBackground": "#FF990040",
     "editor.focusedStackFrameHighlightBackground": "#85D22D40",
     "debugToolBar.background": "#072210",
@@ -418,9 +418,9 @@
     "debugTokenExpression.name": "#33E7FF",
     "debugTokenExpression.value": "#3DA2F5",
     "debugTokenExpression.string": "#FFEB33",
-    "debugTokenExpression.boolean": "#F5493D",
-    "debugTokenExpression.type": "#FF6333",
-    "debugTokenExpression.number": "#F5493D",
+    "debugTokenExpression.boolean": "#ED457D",
+    "debugTokenExpression.type": "#57DB5D",
+    "debugTokenExpression.number": "#ED457D",
     "debugTokenExpression.error": "#F21C0D",
     "notebook.focusedCellBorder": "#FFBF00",
     "notebook.inactiveFocusedCellBorder": "#B4C41C50",
@@ -486,7 +486,6 @@
         "constant.other",
         "variable.readonly",
         "variable.other.constant",
-        "variable.other.enummember",
         "variable.object",
         "variable.other.object",
         "support.constant",
@@ -502,7 +501,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#F5493D"
+        "foreground": "#ED457D"
       }
     },
     {
@@ -521,7 +520,7 @@
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#F5493D"
+        "foreground": "#ED457D"
       }
     },
     {
@@ -574,7 +573,7 @@
       }
     },
     {
-      "name": "Keyword, Storage, Unit",
+      "name": "Keyword, Storage, Unit, Type",
       "scope": [
         "keyword",
         "keyword.other",
@@ -585,7 +584,7 @@
         "storage.modifier",
         "storage.type",
         "storage.control",
-        "constant.other.key"
+        "support.type"
       ],
       "settings": {
         "foreground": "#57DB5D"
@@ -656,7 +655,8 @@
         "support.variable.property",
         "support.type.property-name",
         "variable.other.object.property",
-        "constant.other.symbol.hashkey"
+        "constant.other.symbol.hashkey",
+        "variable.other.enummember",
       ],
       "settings": {
         "foreground": "#33E7FF"
@@ -669,15 +669,17 @@
         "entity.name.type.class",
         "entity.name.type.module",
         "support.class",
+        "entity.name",
         "support.class.component",
         "entity.other.inherited-class",
-        "support.type",
-        "entity.name.type",
+        "entity.name.namespace",
+        "entity.name.scope-resolution",
+        "entity.name.scope-resolution.parameter",
+        "constant.other.key",
         "interface",
+        "entity.name.type",
         "entity.name.type.interface",
         "entity.name.type.enum",
-        "entity.name.scope-resolution",
-        "entity.name.scope-resolution.parameter"
       ],
       "settings": {
         "foreground": "#FF6333"
@@ -732,7 +734,7 @@
         "keyword.other.important.less punctuation.separator.less"
       ],
       "settings": {
-        "foreground": "#F5493D"
+        "foreground": "#57DB5D"
       }
     },
     {
