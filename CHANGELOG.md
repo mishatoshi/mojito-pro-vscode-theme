@@ -1,5 +1,17 @@
 # Mojito Pro for VS Code
 
+## v2.0.1
+
+### Patch Changes
+
+1. Changing the color for Types in JS and TS (support.type).
+2. Changing the color for Number and Boolean.
+3. Changing the color for Enum property in TS.
+4. Changing the color for Namespace (entity.name.namespace).
+5. Changing the color for Important in CSS, Scss, Sass, Less
+
+___
+
 ## v2.0.0
 
 ### Major Changes
