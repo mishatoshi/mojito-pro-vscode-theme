@@ -11,7 +11,7 @@
 
 <div align="center">
   <h2>Mojito Pro Dark</h2>
-  <img src="https://github.com/user-attachments/assets/8b69f2fc-3436-42c4-8f81-feadf695f8b8">
+  <img src="https://github.com/user-attachments/assets/56c7868a-6b78-4e7f-b477-ca02cc7efa8e">
 </div>
 
 ## Getting started
