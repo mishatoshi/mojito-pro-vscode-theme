@@ -1,5 +1,17 @@
 # Mojito Pro for VS Code
 
+## v3.0.0
+
+### Major Changes
+
+- Added a new Mojito Pro Dark color theme.
+
+### Patch Changes
+
+- Changing the color for peekViewResult.background.
+
+___
+
 ## v2.0.1
 
 ### Patch Changes
