@@ -1,10 +1,16 @@
 # Mojito Pro for VS Code
 
-## v3.0.1
+## v3.1.0
 
-### Patch Changes
+### Minor Changes
 
-Changing the color in Mojito Pro Dark:
+1. Changing the colors in Mojito Pro:
+
+- editor.background
+- editor.foreground
+- Background: StickyScroll, editorWidget, editorHoverWidget, editorSuggestWidget, peekViewEditor, breadcrumbPicker, mergeEditor.change, editorMarkerNavigation
+
+1. Changing the colors in Mojito Pro Dark:
 
 - editor.background
 - editor.foreground
