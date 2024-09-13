@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="./MojitoPro-Logo.png" width="100px" height="100px">
+  <img src="./Mojito-Logo-512.png" width="100px" height="100px">
   <h1>Mojito Pro for Visual Studio Code</h1>
   <h3>Beautiful green theme for comfortable work</h3>
 </div>
 
 <div align="center">
   <h2>Mojito Pro</h2>
-  <img src="https://github.com/user-attachments/assets/dc7feabd-41df-46f9-9d36-29275f9c6f4c">
+  <img src="https://github.com/user-attachments/assets/026a9cf5-8f24-4a0a-b164-01c19be342f8">
 </div>
 
 <div align="center">
   <h2>Mojito Pro Dark</h2>
-  <img src="https://github.com/user-attachments/assets/77e7a276-b654-49d6-b1ce-ea81f8008134">
+  <img src="https://github.com/user-attachments/assets/a40cf811-f2ef-47de-85f3-66d02e01e4c1">
 </div>
 
 ## Getting started
