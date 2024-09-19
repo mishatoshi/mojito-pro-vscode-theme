@@ -1,12 +1,29 @@
 # Mojito Pro for VS Code
 
+## v3.3.0
+
+### Minor Changes
+
+1. Updated the color palette, made it a little brighter
+1. Changing the colors in **Mojito Pro** and **Mojito Pro Dark**:
+    - Number, Boolean (from pink to deep orange)
+    - Constants, Objects, Null (from blue to orange)
+    - Functions, Methods (from orange to blue)
+    - The background of the highlighted selection (from purple to red)
+    - Font style in Markdown: bold, italic (from deeporange to blue and orange to cyan)
+    - Property in JSON (from orange to cyan)
+    - Important in CSS, Scss, Sass, Less (from green to deep orange)
+    - The background of the focus in breadcrumbs
+
+___
+
 ## v3.2.0
 
 ### Minor Changes
 
 1. The color of the logo has been changed
-1. The colors of the Mojito Pro theme interface have been changed
-1. The colors of the Mojito Pro Dark theme interface have been changed
+1. The colors of the **Mojito Pro** theme interface have been changed
+1. The colors of the **Mojito Pro Dark** theme interface have been changed
 
 ___
 
@@ -14,20 +31,18 @@ ___
 
 ### Minor Changes
 
-1. Changing the colors in Mojito Pro:
+1. Changing the colors in **Mojito Pro**:
+    - editor.background
+    - editor.foreground
+    - Background: StickyScroll, editorWidget, editorHoverWidget, editorSuggestWidget, peekViewEditor, breadcrumbPicker, mergeEditor.change, editorMarkerNavigation
 
-- editor.background
-- editor.foreground
-- Background: StickyScroll, editorWidget, editorHoverWidget, editorSuggestWidget, peekViewEditor, breadcrumbPicker, mergeEditor.change, editorMarkerNavigation
-
-1. Changing the colors in Mojito Pro Dark:
-
-- editor.background
-- editor.foreground
-- Background: StickyScroll, editorWidget, editorHoverWidget, editorSuggestWidget, peekViewEditor, breadcrumbPicker, mergeEditor.change, editorMarkerNavigation
-- Description Foreground
-- Disabled Foreground
-- Comment
+1. Changing the colors in **Mojito Pro Dark**:
+    - editor.background
+    - editor.foreground
+    - Background: StickyScroll, editorWidget, editorHoverWidget, editorSuggestWidget, peekViewEditor, breadcrumbPicker, mergeEditor.change, editorMarkerNavigation
+    - Description Foreground
+    - Disabled Foreground
+    - Comment
 
 ___
 
@@ -35,11 +50,11 @@ ___
 
 ### Major Changes
 
-- Added a new Mojito Pro Dark color theme.
+- Added a new **Mojito Pro Dark** color theme
 
 ### Patch Changes
 
-- Changing the color for peekViewResult.background.
+- Changing the color for peekViewResult.background
 
 ___
 
@@ -47,11 +62,12 @@ ___
 
 ### Patch Changes
 
-1. Changing the color for Types in JS and TS (support.type)
-2. Changing the color for Number and Boolean
-3. Changing the color for Enum property in TS
-4. Changing the color for Namespace (entity.name.namespace)
-5. Changing the color for Important in CSS, Scss, Sass, Less
+- Changing the colors in **Mojito Pro**:
+  - Types in JS and TS (support.type)
+  - Number and Boolean
+  - Enum property in TS
+  - Namespace (entity.name.namespace)
+  - Important in CSS, Scss, Sass, Less
 
 ___
 
@@ -60,10 +76,8 @@ ___
 ### Major Changes
 
 1. The color theme has received a new improved color palette
-2. The design elements of the color theme have been changed
-3. Syntax highlighting has been completely changed
-4. The previous version was unsuccessful and will be completely replaced by the new one. Those who wish can roll back to the previous color theme, it makes no sense to leave it with the new one (it will not receive updates)
-5. The new color theme will improve, but nothing will change dramatically. Write your suggestions for bug fixes and improvements
+1. The design elements of the color theme have been changed
+1. Syntax highlighting has been completely changed
 
 ___
 
