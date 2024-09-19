@@ -6,12 +6,12 @@
 
 <div align="center">
   <h2>Mojito Pro</h2>
-  <img src="https://github.com/user-attachments/assets/026a9cf5-8f24-4a0a-b164-01c19be342f8">
+  <img src="https://github.com/user-attachments/assets/3613ccb5-7a8f-4c34-9b3e-acc6b80289bc">
 </div>
 
 <div align="center">
   <h2>Mojito Pro Dark</h2>
-  <img src="https://github.com/user-attachments/assets/a40cf811-f2ef-47de-85f3-66d02e01e4c1">
+  <img src="https://github.com/user-attachments/assets/06a347b8-8288-40e2-8f4f-abd8d1fdc65d">
 </div>
 
 ## Getting started
