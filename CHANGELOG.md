@@ -1,5 +1,25 @@
 # Mojito Pro for VS Code
 
+## v3.4.0
+
+### Minor Changes
+
+1. The colors of the symbol icons have been changed:
+    - variableForeground
+    - fieldForeground
+    - propertyForeground
+    - constructorForeground
+
+1. Added the colors of the symbol icons:
+    - referenceForeground
+    - eventForeground
+    - enumeratorMemberForeground
+    - snippetForeground
+
+1. The editor inline hints have been changed
+
+___
+
 ## v3.3.0
 
 ### Minor Changes
