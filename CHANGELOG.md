@@ -1,5 +1,19 @@
 # Mojito Pro for VS Code
 
+## v3.5.0
+
+### Minor Changes
+
+1. The color of the logo has been changed
+1. The colors of the **Mojito Pro** theme interface have been changed
+1. The colors of the **Mojito Pro Dark** theme interface have been changed
+
+### Patch Changes
+
+- Fixed the color of the function parameter for **self** in python
+
+___
+
 ## v3.4.0
 
 ### Minor Changes
