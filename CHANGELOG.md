@@ -1,5 +1,13 @@
 # Mojito Pro for VS Code
 
+## v3.5.1
+
+### Patch Changes
+
+- Reduced color saturation for the **Mojito Pro** and **Mojito Pro Dark**
+
+___
+
 ## v3.5.0
 
 ### Minor Changes
