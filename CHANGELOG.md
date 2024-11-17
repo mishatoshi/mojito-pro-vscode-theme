@@ -1,5 +1,13 @@
 # Mojito Pro for VS Code
 
+## v3.5.2
+
+### Patch Changes
+
+- Fixed: the color of the import **name** in **Go**
+
+___
+
 ## v3.5.1
 
 ### Patch Changes
