@@ -648,7 +648,6 @@
       "scope": [
         "variable.parameter",
         "meta.parameter.initialization",
-        "entity.name",
         "entity.name.variable.parameter"
       ],
       "settings": {
@@ -678,6 +677,7 @@
         "entity.name.class",
         "entity.name.type.class",
         "entity.name.type.module",
+        "entity.name",
         "support.class",
         "support.class.component",
         "entity.other.inherited-class",
