@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="./images/mojito-logotype-512.png" width="100px" height="100px">
+  <img src="images/mojito-logo.png" width="100px" height="100px">
   <h1>Mojito Pro for Visual Studio Code</h1>
   <h3>Beautiful green theme for comfortable work</h3>
 </div>
 
 <div align="center">
   <h2>Mojito Pro</h2>
-  <img src="./images/Mojito Pro for VS Code.png">
+  <img src="images/mojito-pro.png">
 </div>
 
 <div align="center">
   <h2>Mojito Pro Dark</h2>
-  <img src="./images/Mojito Pro Dark for VS Code.png">
+  <img src="images/mojito-pro-dark.png">
 </div>
 
 ## Getting started
