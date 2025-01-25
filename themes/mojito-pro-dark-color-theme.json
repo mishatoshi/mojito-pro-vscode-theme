@@ -95,7 +95,7 @@
     "gitDecoration.stageModifiedResourceForeground": "#55AEF6",
     "gitDecoration.deletedResourceForeground": "#F66055",
     "gitDecoration.stageDeletedResourceForeground": "#F66055",
-    "gitDecoration.untrackedResourceForeground": "#6CE083",
+    "gitDecoration.untrackedResourceForeground": "#E06CCA",
     "gitDecoration.addedResourceForeground": "#6CE083",
     "gitDecoration.conflictingResourceForeground": "#FFB74D",
     "gitDecoration.ignoredResourceForeground": "#478566",
