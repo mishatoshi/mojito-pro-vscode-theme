@@ -1,5 +1,13 @@
 # Mojito Pro for VS Code
 
+## v1.0.3
+
+### Patch Changes
+
+- Fix: Added a new theme description
+
+___
+
 ## v1.0.2
 
 ### Patch Changes
