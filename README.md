@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/mojito-logo.png" width="100px" height="100px">
   <h1>Mojito Pro for Visual Studio Code</h1>
-  <h3>Mojito Theme – easy on the eyes, boosting productivity! 🎨🍃</h3>
+  <h3>🍃 Easy on the eyes, boosting productivity!</h3>
 </div>
 
 <div align="center">
@@ -41,6 +41,7 @@ To override this (or any other) theme in your personal config file, please follo
 ## Other versions
 
 * Windows Terminal, PowerShell, CMD [https://github.com/mishatoshi/mojito-pro-windows-terminal](https://github.com/mishatoshi/mojito-pro-windows-terminal)
+* Oh My Posh [https://github.com/mishatoshi/mojito-pro-oh-my-posh-theme](https://github.com/mishatoshi/mojito-pro-oh-my-posh-theme)
 * Flow Launcher [https://github.com/mishatoshi/mojito-pro-flowlauncher-theme](https://github.com/mishatoshi/mojito-pro-flowlauncher-theme)
 
 ## License
