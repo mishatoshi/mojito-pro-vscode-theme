@@ -1,5 +1,13 @@
 # Mojito Pro for VS Code
 
+## v1.0.4
+
+### Patch Changes
+
+- Added a link to the Mojito Pro theme for Oh My Posh
+
+___
+
 ## v1.0.3
 
 ### Patch Changes
