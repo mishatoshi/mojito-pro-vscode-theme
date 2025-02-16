@@ -1,5 +1,13 @@
 # Mojito Pro for VS Code
 
+## v1.0.5
+
+### Patch Changes
+
+- Fix: Reduced brightness for active elements: buttons, focus background, active background
+
+___
+
 ## v1.0.4
 
 ### Patch Changes
