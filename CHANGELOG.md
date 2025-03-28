@@ -1,5 +1,19 @@
 # Mojito Pro for VS Code
 
+## v1.1.0
+
+### Minor Changes
+
+- Add: New color palette
+- Add: New syntax highlighting colors
+- Add: Mojito Pro Dark is now completely dark
+
+### Patch Changes
+
+- Fix: Bugs and removed unnecessary code
+
+___
+
 ## v1.0.5
 
 ### Patch Changes
