@@ -1,5 +1,14 @@
 # Mojito Pro for VS Code
 
+## v1.1.1
+
+### Patch Changes
+
+- Fix: Color for **mnemonic symbols**
+- Fix: Color for **font-name** in styles
+
+___
+
 ## v1.1.0
 
 ### Minor Changes
