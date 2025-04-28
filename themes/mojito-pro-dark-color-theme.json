@@ -638,6 +638,17 @@
       }
     },
     {
+      "name": "constant.character",
+      "scope": [
+        "constant.character",
+        "constant.character.entity.named",
+        "punctuation.definition.entity"
+      ],
+      "settings": {
+        "foreground": "#70DB86"
+      }
+    },
+    {
       "name": "Function, Special Method",
       "scope": [
         "entity.name.function",
@@ -878,15 +889,6 @@
       ],
       "settings": {
         "foreground": "#71E5F4"
-      }
-    },
-    {
-      "name": "Regular Expressions Backslash",
-      "scope": [
-        "constant.character.escape.backslash.regexp"
-      ],
-      "settings": {
-        "foreground": "#70DB86"
       }
     },
     {
