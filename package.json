@@ -2,7 +2,7 @@
   "name": "mojito-pro-vscode-theme",
   "displayName": "Mojito Pro",
   "description": "🍃 Easy on the eyes, boosting productivity!",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "publisher": "mishatoshi",
   "license": "MIT",
   "icon": "images/mojito-logo.png",
@@ -30,7 +30,8 @@
     "green-theme",
     "vscode-theme",
     "mojito-pro",
-    "mojito-pro-dark"
+    "mojito-pro-dark",
+    "mojito-pro-night"
   ],
   "contributes": {
     "themes": [
@@ -43,6 +44,11 @@
         "label": "Mojito Pro Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/mojito-pro-dark-color-theme.json"
+      },
+      {
+        "label": "Mojito Pro Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mojito-pro-night-color-theme.json"
       }
     ]
   }
