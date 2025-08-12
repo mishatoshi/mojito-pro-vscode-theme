@@ -1,5 +1,13 @@
 # Mojito Pro for VS Code
 
+## v2.0.0
+
+### Major Changes
+
+- Add: New Mojito Pro Night theme
+
+___
+
 ## v1.1.1
 
 ### Patch Changes
