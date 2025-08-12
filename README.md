@@ -14,6 +14,11 @@
   <img src="images/mojito-pro-dark.png">
 </div>
 
+<div align="center">
+  <h2>Mojito Pro Night</h2>
+  <img src="images/mojito-pro-night.png">
+</div>
+
 ## Getting started
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme&ssr=false#overview).
