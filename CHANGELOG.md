@@ -1,5 +1,16 @@
 # Mojito Pro for VS Code
 
+## v2.0.1
+
+### Patch Changes
+
+- Fix: Color for terminal: red, green, yellow, blue, cyan
+- Fix: Color for: error, warning, info, modified, add, CommonContent, secondary button
+- Fix: Color for: html symbols, html text
+- Fix: Color for editorInlayHint.foreground
+
+___
+
 ## v2.0.0
 
 ### Major Changes
