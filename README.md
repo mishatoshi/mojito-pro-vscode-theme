@@ -6,17 +6,17 @@
 
 <div align="center">
   <h2>Mojito Pro</h2>
-  <img src="images/mojito-pro.png">
+  <img src="images/MojitoPro.png">
 </div>
 
 <div align="center">
   <h2>Mojito Pro Dark</h2>
-  <img src="images/mojito-pro-dark.png">
+  <img src="images/MojitoPro-Dark.png">
 </div>
 
 <div align="center">
   <h2>Mojito Pro Night</h2>
-  <img src="images/mojito-pro-night.png">
+  <img src="images/MojitoPro-Night.png">
 </div>
 
 ## Getting started
@@ -28,7 +28,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 1. Open the extensions sidebar on Visual Studio Code
 2. Search for **Mojito Pro**
 3. Click **Install** to install it
-4. Code/File ＞ Preferences ＞ Color Theme ＞ **Mojito Pro** or **Mojito Pro Dark**
+4. Code/File ＞ Preferences ＞ Color Theme ＞ **Mojito Pro** or **Mojito Pro Dark** or **Mojito Pro Night**
 5. 🌟 Did you like the theme? Please rate it with [five stars](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme&ssr=false#review-details)
 
 ### Alternate Installation
@@ -36,7 +36,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 1. Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>
 2. Paste the command `ext install mishatoshi.mojito-pro-vscode-theme`
 3. Click **Install** to install it
-4. Code/File ＞ Preferences ＞ Color Theme ＞ **Mojito Pro** or **Mojito Pro Dark**
+4. Code/File ＞ Preferences ＞ Color Theme ＞ **Mojito Pro** or **Mojito Pro Dark** or **Mojito Pro Night**
 5. 🌟 Did you like the theme? Please rate it with [five stars](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme&ssr=false#review-details)
 
 ## Override this theme
