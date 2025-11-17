@@ -1,5 +1,38 @@
 # Mojito Pro for VS Code
 
+## v2.0.2
+
+### Patch Changes
+
+- Fix: Markdown Quote color
+- Fix: Markdown Text HTML color
+- Fix: Markdown Fenced Language Code Block color
+- Fix: The color of the ampersand sign (&) in scss
+- Fix: SideBar Foreground color
+- Fix: List Hover Foreground color
+- Fix: List Focus Foreground color
+- Fix: list Inactive Selection Icon Foreground
+- Fix: Editor Hover Widget Foreground color
+- Fix: Editor Suggest Widget Foreground color
+- Fix: PeekViewResult File Foreground color
+- Fix: PeekViewResult Line Foreground color
+- Fix: TitleBar Active Foreground color
+- Fix: Menu Foreground color
+- Fix: Menu Selection Foreground color
+- Fix: CommandCenter Foreground color
+- Fix: QuickInput Foreground color
+- Fix: KeybindingLabel Foreground color
+- Fix: StatusBar Foreground color
+- Fix: StatusBar Focus Border color
+- Fix: Editor Foreground color
+- Fix: SymbolIcon Text Foreground color
+- Fix: SymbolIcon Color Foreground
+- Fix: SymbolIcon File Foreground color
+- Fix: SymbolIcon Folder Foreground color
+- Fix: SymbolIcon Snippet Foreground color
+
+___
+
 ## v2.0.1
 
 ### Patch Changes
