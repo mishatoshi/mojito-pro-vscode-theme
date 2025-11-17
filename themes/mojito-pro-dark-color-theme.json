@@ -731,6 +731,7 @@
       "scope": [
         "meta.property-name.css",
         "meta.property-list.css",
+        "entity.name.tag.reference.scss",
         "entity.other.keyframe-offset.css",
         "keyword.other.keyframe-selector.less"
       ],
