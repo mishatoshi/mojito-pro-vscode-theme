@@ -1,22 +1,16 @@
 <div align="center">
-  <img src="images/mojito-logo.png" width="100px" height="100px">
-  <h1>Mojito Pro for Visual Studio Code</h1>
-  <h3>🍃 Easy on the eyes, boosting productivity!</h3>
+  <img src="images/MojitoPro-LogoBig.png" height="150px">
+  <h1>for Visual Studio Code</h1>
 </div>
 
 <div align="center">
   <h2>Mojito Pro</h2>
-  <img src="images/MojitoPro.png">
+  <img src="images/mojito-pro.png">
 </div>
 
 <div align="center">
   <h2>Mojito Pro Dark</h2>
-  <img src="images/MojitoPro-Dark.png">
-</div>
-
-<div align="center">
-  <h2>Mojito Pro Night</h2>
-  <img src="images/MojitoPro-Night.png">
+  <img src="images/mojito-pro-dark.png">
 </div>
 
 ## Getting started
@@ -28,7 +22,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 1. Open the extensions sidebar on Visual Studio Code
 2. Search for **Mojito Pro**
 3. Click **Install** to install it
-4. Code/File ＞ Preferences ＞ Color Theme ＞ **Mojito Pro** or **Mojito Pro Dark** or **Mojito Pro Night**
+4. Code/File ＞ Preferences ＞ Color Theme ＞ **Mojito Pro** or **Mojito Pro Dark**
 5. 🌟 Did you like the theme? Please rate it with [five stars](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme&ssr=false#review-details)
 
 ### Alternate Installation
@@ -36,7 +30,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 1. Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>
 2. Paste the command `ext install mishatoshi.mojito-pro-vscode-theme`
 3. Click **Install** to install it
-4. Code/File ＞ Preferences ＞ Color Theme ＞ **Mojito Pro** or **Mojito Pro Dark** or **Mojito Pro Night**
+4. Code/File ＞ Preferences ＞ Color Theme ＞ **Mojito Pro** or **Mojito Pro Dark**
 5. 🌟 Did you like the theme? Please rate it with [five stars](https://marketplace.visualstudio.com/items?itemName=mishatoshi.mojito-pro-vscode-theme&ssr=false#review-details)
 
 ## Override this theme
@@ -52,5 +46,3 @@ To override this (or any other) theme in your personal config file, please follo
 ## License
 
 [MIT License](./LICENSE)
-
-<h3 align="center">Don’t worry, be happy😍</h3>
