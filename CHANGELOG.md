@@ -1,5 +1,18 @@
 # Mojito Pro for VS Code
 
+## v3.0.0
+
+### Major Changes
+
+- Add: New color palette
+- Add: New syntax highlighting colors
+
+## Patch Changes
+
+- Fix: Bugs and removed unnecessary code
+
+___
+
 ## v2.0.2
 
 ### Patch Changes
