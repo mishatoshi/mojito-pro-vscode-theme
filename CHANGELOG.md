@@ -7,7 +7,7 @@
 - Add: New color palette
 - Add: New syntax highlighting colors
 
-## Patch Changes
+### Patch Changes
 
 - Fix: Bugs and removed unnecessary code
 
