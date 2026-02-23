@@ -1,5 +1,18 @@
 # Mojito Pro for VS Code
 
+## v3.1.0
+
+### Minor Changes
+
+- Update: The colors have been updated for the **Mojito Pro** and **Mojito Pro Dark** themes
+
+### Patch Changes
+
+- Fix: Replacing the color for **String**
+- Fix: Fixed behavior for **Selection Background**
+
+___
+
 ## v3.0.0
 
 ### Major Changes
