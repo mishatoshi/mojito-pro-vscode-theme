@@ -2,10 +2,10 @@
   "name": "mojito-pro-vscode-theme",
   "displayName": "Mojito Pro",
   "description": "🍃 Easy on the eyes, boosting productivity!",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "publisher": "mishatoshi",
   "license": "MIT",
-  "icon": "images/MojitoPro-Logo.png",
+  "icon": "images/m-pro-logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mishatoshi/mojito-pro-vscode-theme"
@@ -14,7 +14,7 @@
     "url": "https://github.com/mishatoshi/mojito-pro-vscode-theme/issues"
   },
   "galleryBanner": {
-    "color": "#0D2117",
+    "color": "#0A1E14",
     "theme": "dark"
   },
   "engines": {
