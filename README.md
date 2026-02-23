@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="images/MojitoPro-LogoBig.png" height="150px">
+  <img src="images/m-pro-logo-big.png" height="150px">
   <h1>for Visual Studio Code</h1>
 </div>
 
 <div align="center">
   <h2>Mojito Pro</h2>
-  <img src="images/mojito-pro.png">
+  <img src="images/m-pro.png">
 </div>
 
 <div align="center">
   <h2>Mojito Pro Dark</h2>
-  <img src="images/mojito-pro-dark.png">
+  <img src="images/m-pro-dark.png">
 </div>
 
 ## Getting started
@@ -41,7 +41,6 @@ To override this (or any other) theme in your personal config file, please follo
 
 * Windows Terminal, PowerShell, CMD [https://github.com/mishatoshi/mojito-pro-windows-terminal](https://github.com/mishatoshi/mojito-pro-windows-terminal)
 * Oh My Posh [https://github.com/mishatoshi/mojito-pro-oh-my-posh-theme](https://github.com/mishatoshi/mojito-pro-oh-my-posh-theme)
-* Flow Launcher [https://github.com/mishatoshi/mojito-pro-flowlauncher-theme](https://github.com/mishatoshi/mojito-pro-flowlauncher-theme)
 
 ## License
 
