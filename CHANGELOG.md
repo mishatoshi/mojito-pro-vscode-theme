@@ -1,5 +1,26 @@
 # Mojito Pro for VS Code
 
+## v3.1.1
+
+### Patch Changes
+
+- Fix: Fixed colors for:
+  - **Selection Highlight Background**,
+  - **Inactive Selection Background**,
+  - **Linked Editing Background**,
+  - **Word Highlight Background** and **Word Highlight Border**,
+  - **Word Highlight Strong Background**,
+  - **Find Match Highlight Background** and **Find Match Highlight Border**,
+  - **List/Tree Focus and Selection Outline**,
+  - **Marker Navigation Info Background**,
+  - **Marker Navigation Warning Background**,
+  - **Marker Navigation Error Background**,
+  - **Diff Editor**,
+  - **Editor Snippet**,
+  - **PeekView Editor Match Highlight Background**
+
+___
+
 ## v3.1.0
 
 ### Minor Changes
